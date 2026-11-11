@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setas na Tela</string>
+    <string name="service_description">Mostra setas e um botão OK flutuantes para rolar a tela e selecionar itens. Funciona offline e não coleta nenhum dado.</string>
+</resources>
